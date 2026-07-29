@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OnboardingAssistant - persisted vector store & indexed data
+data/
+.chroma/
+chroma_db/
+*.sqlite3
+*.duckdb
