@@ -1,0 +1,9 @@
+session_id,officer_id,role,login_hour,session_duration_min,is_unusual_ip,cases_reviewed_count,export_volume_kb,skipped_evidence_checks,override_attempts
+SES_2001,OFF_001,Junior Analyst,9,450,0,25,45.2,0,0
+SES_2002,OFF_002,Junior Analyst,8,420,0,32,110.5,0,0
+SES_2003,OFF_003,Senior Investigator,10,480,0,18,160.0,0,0
+SES_2004,OFF_005,Compliance Manager,9,360,0,15,88.0,0,0
+SES_2005,OFF_002,Junior Analyst,2,45,1,4,8500.0,0,0
+SES_2006,OFF_004,Senior Investigator,11,410,0,120,350.0,7,4
+SES_2007,OFF_001,Junior Analyst,21,300,0,65,190.0,0,0
+SES_2008,OFF_003,Senior Investigator,14,120,0,0,9800.0,0,0
